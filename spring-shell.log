@@ -1,0 +1,11 @@
+1508924246600:help
+1508924275937:connect --username j --password p
+1508924613448:help
+1508924622408:connect --username j --password  p
+1508924624482:help
+1508924743246:connect --username j --password  p
+1508925030239:directory --person (#2)s
+1508925074575:directory --person (#1) s
+1508925081601:directory --person (#1)\\ s
+1508925291495:directory --person (#2)\\ Brian\\ Clozel
+1508925341026:connect --username j --password p
